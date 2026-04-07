@@ -46982,7 +46982,9 @@ A.aed.prototype={
 $0(){A.hu($.aI())},
 $S:0}
 A.RD.prototype={
-J(a){var s=this,r=null
+J(a){var s=this,r=null,q=s.d
+s.f=q.k2.gm(0)
+s.r=q.k3
 return new A.by(new A.ag(A.bD(a,r,t.w).w.a.a*0.02,0,0,0),A.aDs(A.aJy(B.jF,s.f,new A.anx(s),!0,s.c,t.S),A.aq(s.e,r,r,r,B.HM,r,r)),r)}}
 A.anx.prototype={
 $1(a){var s,r,q,p,o,n=this.a,m=n.d
